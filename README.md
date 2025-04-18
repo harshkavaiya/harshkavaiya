@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harsh kavaiya</h1>
-<h3 align="center">I am currently a 3rd year BCA student passionate about web development and learning new technologies. I love to build dynamic and interactive web applications, and I am continuously improving my skills.</h3>
+<h3 align="center">Expert Full Stack Developer Mern Stack (Mongob, Express.JS, React.JS,
+Node.JS) and specialization in PHP. Effective in developing scalable
+webaps with user-friendly interfaces and effective back-end solutions.
+Obliged to use modern techniques to provide high-quality software
+solutions.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkavaiya&label=Profile%20views&color=0e75b6&style=flat" alt="harshkavaiya" /> </p>
 
@@ -8,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harsh-kavaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-kavaiya" height="30" width="40" /></a>
-<a href="https://instagram.com/harsh_kavaiya_8989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_kavaiya_8989" height="30" width="40" /></a>
+<a href="https://instagram.com/harsh_kavaiya_8989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_kavaiya_89" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
